@@ -1,6 +1,6 @@
-# Función para dividir...
+# Función para potenciar...
 import math
 
-def dividir(a, b):
+def potenciar(a, b):
     resultado = math.pow(a, b)
     return resultado
